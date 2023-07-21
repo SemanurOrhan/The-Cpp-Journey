@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\orhan\OneDrive\Belgeler\Ödevler\deneme ve öğrenme adımları\Sayı tahmin etme oyunu\Kaynak.cpp(8,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Sayı tahmin etme oyunu.vcxproj -> C:\Users\orhan\OneDrive\Belgeler\Ödevler\deneme ve öğrenme adımları\Sayı tahmin etme oyunu\x64\Debug\Sayı tahmin etme oyunu.exe
