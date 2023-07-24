@@ -6,7 +6,7 @@ int main() {
 	cout <<"Faktoriyelini hesaplamak istediginiz sayiyi giriniz:" << endl;
 	cin >> number;
 
-	long long factorial = 1; //Büyük sayýlarda iþlemi yapabilmek için long long olarak tanýmlanmýþtýr.
+	long long factorial = 1; //Buyuk sayilarda islemi yapabilmek iÃ§in long long olarak tanimlanmistir.
 
 		for (int i=1; i <= number; i++) {
 			factorial *= i;
